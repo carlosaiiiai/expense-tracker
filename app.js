@@ -14,6 +14,7 @@ if (process.env.NODE_ENV !== 'production') {
 
 const port = process.env.PORT
 //wewewe
+//1231313123113132
 //使用const routes = require('./routes')的話也會自動去找到index
 const routes = require('./routes/index')
 const usePassport = require('./config/passport')
